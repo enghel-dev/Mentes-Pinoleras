@@ -1,6 +1,6 @@
 # Mentes Pinoleras 🇳🇮
 
-![Logo de Mentes Pinoleras](URL_DE_TU_LOGO_APROBADO)
+![Logo de Mentes Pinoleras](Logo.png)
 
 ## Descripción
 
